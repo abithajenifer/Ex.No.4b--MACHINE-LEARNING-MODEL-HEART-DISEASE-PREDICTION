@@ -1,6 +1,7 @@
 # Ex.No.4b--MACHINE-LEARNING-MODEL-HEART-DISEASE-PREDICTION
 ## AIM
 To develop a Heart Disease Prediction model using machine learning classification algorithms and compare the performance of different models using suitable evaluation metrics.
+
 ##  OBJECTIVES
 •	To understand machine learning classification. 
 •	To analyze a heart disease dataset. 
@@ -10,6 +11,7 @@ To develop a Heart Disease Prediction model using machine learning classificatio
 •	To train different classification models. 
 •	To predict whether a patient has heart disease. 
 •	To evaluate and compare the models. 
+
 ## INTRODUCTION
 •	Machine Learning enables computers to learn patterns from data and make predictions. 
 •	Classification is a supervised learning technique used to predict categories or classes. 
@@ -17,6 +19,7 @@ To develop a Heart Disease Prediction model using machine learning classificatio
 •	The output generally contains two classes: 
 o	0 – No Heart Disease 
 o	1 – Heart Disease 
+
 ## DATASET
 The dataset contains medical information about patients.
 Typical attributes include:
@@ -32,6 +35,7 @@ Maximum Heart Rate	Maximum heart rate achieved
 Exercise Angina	Exercise-induced angina
 Oldpeak	ST depression value
 Target	Presence or absence of heart disease
+
 ## TARGET VARIABLE
 •	Target is the dependent variable. 
 •	It indicates whether the patient has heart disease. 
@@ -39,6 +43,7 @@ Target	Presence or absence of heart disease
 0 → No Heart Disease
 1 → Heart Disease
 6. DATA PREPROCESSING
+
 ### Steps
 1.	Load the dataset. 
 2.	Display the first few records. 
@@ -209,5 +214,8 @@ plt.show()
 
 ## CONCLUSION
 Thus, machine learning classification models were successfully applied for heart disease prediction, and their performance was compared using standard classification evaluation metrics.
+
+## Result
+Thus the experiment is executed
 
 
